@@ -1,2 +1,2 @@
-# deteccion_emociones
-Detección de emociones
+# Detección de Emociones
+Detecta emociones al visualizar videos
